@@ -1,6 +1,6 @@
 ---
 name: nature-humanization
-description: Use when revising academic or general prose that feels formulaic, machine-like, overly defensive, abstract, repetitive, or unnatural while preserving the original meaning, facts, data, citations, and technical claims.
+description: Use when revising academic or general prose that feels formulaic, machine-like, overly defensive, abstract, repetitive, or unnatural.
 ---
 
 # Nature Humanization
