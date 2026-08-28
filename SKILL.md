@@ -38,7 +38,7 @@ Use Academic Mode when the text is an:
 
 Before editing, read and follow:
 
-`Nature—Humanization—Academic.md`
+`Nature_Humanization_Academic.md`
 
 Treat that file as the primary editing rules for Academic Mode.
 
@@ -48,7 +48,7 @@ Use General Mode when the user wants ordinary prose revised for naturalness, cla
 
 Before editing, read and follow:
 
-`Nature—Humanization—General.md`
+`Nature_Humanization_General.md`
 
 Treat that file as the primary editing rules for General Mode.
 
