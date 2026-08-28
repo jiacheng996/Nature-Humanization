@@ -64,7 +64,7 @@ It also contains detailed guidance for organizing academic arguments around the 
 
 Rules:
 
-`Nature—Humanization—Academic.md`
+`Nature_Humanization_Academic.md`
 
 ---
 
@@ -87,7 +87,7 @@ It focuses on reducing common signs of formulaic writing, including:
 
 Rules:
 
-`Nature—Humanization—General.md`
+`Nature_Humanization_General.md`
 
 ---
 
@@ -96,8 +96,8 @@ Rules:
 ```text
 Nature-Humanization/
 ├── SKILL.md
-├── Nature—Humanization—Academic.md
-├── Nature—Humanization—General.md
+├── Nature_Humanization_Academic.md
+├── Nature_Humanization_General.md
 └── README.md
 ```
 
@@ -128,8 +128,8 @@ The resulting structure should look like:
 ```text
 ~/.agents/skills/Nature-Humanization/
 ├── SKILL.md
-├── Nature—Humanization—Academic.md
-├── Nature—Humanization—General.md
+├── Nature_Humanization_Academic.md
+├── Nature_Humanization_General.md
 └── README.md
 ```
 
